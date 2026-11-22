@@ -134,9 +134,6 @@
 /data/vendor/mitee(/.*)?          u:object_r:mitee_data_file:s0
 /mnt/vendor/persist/data(/.*)?    u:object_r:mitee_sfs_file:s0
 
-# OP-TEE
-/data/vendor/tee(/.*)?    u:object_r:tee_data_file:s0
-
 ##########################
 # Devices
 #
